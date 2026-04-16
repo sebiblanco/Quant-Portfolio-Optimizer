@@ -12,7 +12,7 @@ As a Data Science graduate and CFA Level 1 pass, I built this Python-based Mean-
 ## Optimization Results & Visualization
 The algorithm successfully identified the Global Minimum Volatility Portfolio and the Maximum Sharpe Ratio Portfolio, heavily rotating asset classes based on strict mathematical constraints rather than historical bias.
 
-![Efficient Frontier Visualization](efficient_frontier.jpg)
+![Efficient Frontier Visualization](efficient_frontier.ppg)
 
 ### Optimal Asset Allocations:
 **Maximum Sharpe Ratio Portfolio (Tangency):**
